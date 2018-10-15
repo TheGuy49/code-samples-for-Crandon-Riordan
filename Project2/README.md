@@ -21,3 +21,5 @@ Our technology stack was as follows:
 * Bootstrap
 * Logging with log4j, SonarLint and SonarCloud
 
+[Here is a link to the application's repo](https://github.com/crandonriordan/Project2-Chatterbox)
+
