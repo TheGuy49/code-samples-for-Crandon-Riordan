@@ -9,7 +9,7 @@ viable product had to have
 * Withdraw money (wouldn't want negative balances)
 * View account balance
 
-Beyond that we had to user log4j, JUnit testing, SonarCloud for highest 
+Beyond that we had to use log4j, JUnit testing, SonarCloud for highest 
 code quality, and implement the DAO design pattern. Beyond the MVP I 
 added multiple user bank accounts, transfering funds between users, and 
 also the ability to view transaction history.
