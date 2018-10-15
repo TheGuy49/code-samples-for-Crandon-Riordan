@@ -10,7 +10,7 @@ viable product had to have
 * View account balance
 
 Beyond that we had to use log4j, JUnit testing, SonarCloud for highest 
-code quality, and implement the DAO design pattern. Beyond the MVP I 
+code quality, and implement the DAO design pattern. Extra features added 
 added multiple user bank accounts, transfering funds between users, and 
 also the ability to view transaction history.
 
