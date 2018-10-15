@@ -1,4 +1,4 @@
-# Projec 3: RideForce
+# Project 3: RideForce
 
 Our project 3 was a group of 20+ people working on a ride sharing 
 application. This ride sharing application is meant to facilitate 
