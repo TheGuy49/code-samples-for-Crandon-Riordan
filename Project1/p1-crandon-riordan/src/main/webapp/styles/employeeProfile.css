@@ -1,0 +1,25 @@
+.jumbotron.container {
+  margin-top: 4%;
+}
+
+div.jumbotron {
+  padding-top: 16px;
+  background-color: #e3f2fd;
+}
+
+/* For hiding tabs/alerts */
+.noDisplay {
+  display: none;
+}
+
+.doDisplay {
+  display: block;
+}
+
+.alert {
+  margin-top: 15px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}

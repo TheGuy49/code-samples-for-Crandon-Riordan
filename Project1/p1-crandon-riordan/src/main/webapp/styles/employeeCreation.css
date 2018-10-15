@@ -1,0 +1,24 @@
+.jumbotron {
+  margin-top: 30px;
+}
+
+div.jumbotron {
+  padding-top: 30px;
+  background-color: #e3f2fd;
+}
+
+.col-form-label {
+  margin-left: 2%;
+}
+
+h2.text-center {
+  margin-top: -20px;
+}
+
+.noDisplay {
+  display: none;
+} 
+
+.doDisplay {
+  display: block;
+}
