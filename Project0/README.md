@@ -9,7 +9,7 @@ viable product had to have
 * Withdraw money (wouldn't want negative balances)
 * View account balance
 
-Beyond that we had the priveledge of working with **log4j**, **JUnit** testing, **SonarCloud** for code quality analysis, and implement the DAO design pattern. Extra features added 
+Beyond that we had the privelege of working with **Java**, **JDBC**, **log4j**, **JUnit** testing, **SonarCloud** for code quality analysis, and implement the DAO design pattern. Extra features added 
 were multiple user bank accounts, transfering funds between users, and 
 also the ability to view transaction history.
 
