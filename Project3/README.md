@@ -3,8 +3,7 @@
 Our project 3 was a group of 20+ people working on a ride sharing 
 application. This ride sharing application is meant to facilitate 
 communication between Revature associates to solve the logistical issue 
-of getting to work without a car. The issue of getting to work without a 
-car in Reston, VA is not the most walkable city. 
+of getting to work without a car. Their is an issue getting to work without a car due to the lack of walkability in Reston, VA.
 
 The technology stack is **Spring Boot** and **Spring Security** on the back-end and **Angular** on the 
 front-end. We're using a microservice architecture with **Spring Cloud 
