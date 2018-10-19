@@ -13,4 +13,4 @@ Beyond that we had the privelege of working with **Java**, **JDBC**, **log4j**, 
 were multiple user bank accounts, transfering funds between users, and 
 also the ability to view transaction history.
 
-[Here is a link to the project's repo](https://github.com/1808-Aug13-Java/batch-source/tree/Crandon_Riordan/Projects/p0-crandon-riordan)
+[Here is a link to the project's repo](https://github.com/crandonriordan/Projects-Rev/tree/master/p0-crandon-riordan)
