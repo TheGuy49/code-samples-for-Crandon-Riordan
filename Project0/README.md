@@ -1,6 +1,6 @@
 # Project Zero
 
-Our projet zero was a command line banking application. The minimum 
+Our project zero was a command line banking application. The minimum 
 viable product had to have 
 * A login/logout
 * User creation with a uniqule email/username
