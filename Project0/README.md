@@ -3,7 +3,7 @@
 Our project zero was a command line banking application. The minimum 
 viable product had to have 
 * A login/logout
-* User creation with a uniqule email/username
+* User creation with a unique email/username
 * Bank account associated with each user
 * Deposit money
 * Withdraw money (wouldn't want negative balances)
